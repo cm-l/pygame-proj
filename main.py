@@ -1,5 +1,5 @@
 import GameLoop
 
-# main
+# main 💼
 gvOne = GameLoop.GameView(640, 480)
 gvOne.run()
